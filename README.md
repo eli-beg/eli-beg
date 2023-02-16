@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTkyYWY5ZTVlYjNhOTM2MTg5Y2MyNzZlOThhMWQ5ZDBhY2Q4ZWUzYSZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
 </div>
 <div id="badges" align="center">
-   <a href='https://www.linkedin.com/in/eliana-bega-dev/'> 
+   <a href='https://www.linkedin.com/in/eliana-bega-dev/' target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href='https://portfolio-eli-bega.netlify.app/'> 
